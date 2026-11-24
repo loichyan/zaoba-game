@@ -1,0 +1,15 @@
+.git
+.gitignore
+.DS_Store
+.taste-skill
+node_modules
+dist
+server-dist
+artifacts
+docs
+scripts
+*.log
+*.tsbuildinfo
+LICENSE
+README.md
+tsconfig.scripts.json
